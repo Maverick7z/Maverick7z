@@ -10,15 +10,11 @@
 
 </br>
 
--------------------
-</br>
-
-![Maverick7z Github Stats](https://github-readme-stats.vercel.app/api?username=Maverick7z&show_icons=true&theme=radical)
-
-</br>
-
 ---------------------------------
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maverick7z&langs_count=8)]
+<h2 align="center">My GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maverick7z&show_icons=true&theme=tokyonight" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maverick7z&layout=compact&theme=tokyonight" height="180">
