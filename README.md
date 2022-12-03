@@ -1,4 +1,4 @@
-## - Hi There
+## - Hi There <img src="https://komarev.com/ghpvc/?username=Maverick7z&color=green" alt="aticiadem :: Profile Stats"></a>
 
 ----------------
 
